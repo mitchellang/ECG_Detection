@@ -1,0 +1,5 @@
+virtualenvironment
+.idea
+data
+.ipynb_checkpoints
+__pycache__
