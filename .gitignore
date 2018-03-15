@@ -3,3 +3,5 @@ virtualenvironment
 data
 .ipynb_checkpoints
 __pycache__
+trainingset.mat
+model_test.hdf5
