@@ -1,1 +1,1 @@
-# Baby cries recognition
+# ECG with ResNet
